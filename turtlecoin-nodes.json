@@ -70,7 +70,7 @@
       "ssl": false,
       "cache": false
     },
-     {
+    {
       "name": "FastPooL.XyZ US node - 10TRTL Fee",
       "url": "us.fastpool.xyz",
       "port": 11898,
